@@ -1,0 +1,10 @@
+Ep6
+
+line://app/1602687308-GXq4Vvk9?type=text&text
+
+
+git clone https://gitlab.com/Masmax2244/flexmax
+
+cd flexmax
+
+python3 STEVE80.py
